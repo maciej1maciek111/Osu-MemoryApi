@@ -1,6 +1,6 @@
-Osu!MemoryApi
-Author:maciej1maciek11
-Version: 0.0.1.0
+# Osu!MemoryApi
+# Author:maciej1maciek11
+# Version: 0.0.1.0
 
 
 
